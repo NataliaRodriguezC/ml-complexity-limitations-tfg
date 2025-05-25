@@ -2,7 +2,7 @@
 
 Este repositorio contiene el código desarrollado para el Trabajo de Fin de Grado (TFG) titulado:
 **"Limitaciones del Aprendizaje Automático en Función de la Complejidad Computaciona"**
-**"Limitations of Machine Learning Based on Computational Complexity"**
+/**"Limitations of Machine Learning Based on Computational Complexity"**
 
 En este proyecto se estudia cómo distintos modelos de redes neuronales se enfrentan a funciones booleanas asociadas a problemas de diversa complejidad computacional. El análisis se realiza tanto desde el punto de vista empírico (precisión de modelos) como teórico, aplicando métricas como:
 - Sensibilidad media
